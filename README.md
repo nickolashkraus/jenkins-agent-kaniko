@@ -1,8 +1,9 @@
 # Jenkins Agent Kaniko
 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nickolashkraus/jenkins-agent-kaniko?color=blue)
 [![](https://images.microbadger.com/badges/image/nickolashkraus/jenkins-agent-kaniko.svg)](https://microbadger.com/images/nickolashkraus/jenkins-agent-kaniko)
 [![](https://images.microbadger.com/badges/version/nickolashkraus/jenkins-agent-kaniko.svg)](https://microbadger.com/images/nickolashkraus/jenkins-agent-kaniko)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NickolasHKraus/jenkins-agent-kaniko/blob/master/LICENSE)
+![GitHub](https://img.shields.io/github/license/NickolasHKraus/jenkins-agent-kaniko?color=blue)
 
 Jenkins Agent Kaniko contains the [Jenkins Remoting](https://jenkins.io/projects/remoting/) library and [Kaniko](https://github.com/GoogleContainerTools/kaniko). It can be used with [Amazon EC2 Container Service Plugin](https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Container+Service+Plugin) to build Docker images from a container running on an Amazon ECS cluster.
 
