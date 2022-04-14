@@ -1,10 +1,8 @@
 # Jenkins Agent Kaniko
 
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nickolashkraus/jenkins-agent-kaniko?color=blue)](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/jenkins-agent-kaniko)
-[![MicroBadger Layers](https://images.microbadger.com/badges/image/nickolashkraus/jenkins-agent-kaniko.svg)](https://microbadger.com/images/nickolashkraus/jenkins-agent-kaniko)
-[![MicroBadger Version](https://images.microbadger.com/badges/version/nickolashkraus/jenkins-agent-kaniko.svg)](https://microbadger.com/images/nickolashkraus/jenkins-agent-kaniko)
 [![Releases](https://img.shields.io/github/v/release/NickolasHKraus/jenkins-agent-kaniko?color=blue)](https://github.com/NickolasHKraus/jenkins-agent-kaniko/releases)
-[![MIT License](https://img.shields.io/github/license/NickolasHKraus/jenkins-agent-kaniko?color=blue)](https://github.com/NickolasHKraus/jenkins-agent-kaniko/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/NickolasHKraus/jenkins-agent-kaniko/blob/master/LICENSE)
 
 [Docker Hub](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/jenkins-agent-kaniko)
 
